@@ -1,0 +1,6 @@
+instance-type: t3.micro
+key-name: bar-key
+image-id: ami-0e86e20dae9224db8
+security-group: sg-0d7dd79dcb9e0d167
+number_of_instances: 1
+subnet_id: subnet-008325a0363d53bf0
